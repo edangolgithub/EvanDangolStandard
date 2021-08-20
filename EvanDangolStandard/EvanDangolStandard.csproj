@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>EvanDangolStandard</AssemblyName>
+    <RootNamespace>EvanDangolStandard</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.6.0" />
+    <PackageReference Include="Mindbox.Data.Linq" Version="5.0.0" />
+    <PackageReference Include="Spire.Barcode" Version="5.7.1" />
+  </ItemGroup>
+
+</Project>
