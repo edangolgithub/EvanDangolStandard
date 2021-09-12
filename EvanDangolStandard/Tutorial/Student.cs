@@ -8,5 +8,6 @@ namespace EvanDangol.Tutorial
 {
    public class Student
     {
+   
     }
 }
